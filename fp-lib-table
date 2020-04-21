@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ActiveDifferentialProbe)(type KiCad)(uri "$(KIPRJMOD)/ActiveDifferentialProbe.pretty")(options "")(descr ""))
+)
